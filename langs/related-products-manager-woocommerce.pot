@@ -1,0 +1,1300 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Related Products Manager for WooCommerce\n"
+"POT-Creation-Date: 2024-03-29 16:24+0530\n"
+"PO-Revision-Date: 2017-03-11 16:09+0530\n"
+"Last-Translator: \n"
+"Language-Team: Techeshta <info@techeshta.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;_n:1,2;_x:1,2c;_ex:1,2c;"
+"_nx:1,2c;esc_attr_e;esc_attr__;esc_attr_x:1,2c;esc_html__;esc_html_e;"
+"esc_html_x:1,2c;_n_noop:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:26
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:152
+msgid "General"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:114
+#: widgets/related-product-manager-elementor-widget.php:95
+#: widgets/related-product-manager-wpbakery-widget.php:400
+msgid "Random"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:115
+#: widgets/related-product-manager-elementor-widget.php:91
+#: widgets/related-product-manager-wpbakery-widget.php:398
+msgid "Date"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:116
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:445
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:462
+#: widgets/related-product-manager-elementor-widget.php:92
+#: widgets/related-product-manager-elementor-widget.php:171
+#: widgets/related-product-manager-wpbakery-widget.php:399
+msgid "Title"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:119
+msgid "Meta value"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:120
+msgid "Meta value (numeric)"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:122
+#: widgets/related-product-manager-elementor-widget.php:90
+msgid "ID"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:123
+#: widgets/related-product-manager-elementor-widget.php:96
+#: widgets/related-product-manager-wpbakery-widget.php:403
+msgid "Modified"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:124
+msgid "Menu order"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:125
+#: widgets/related-product-manager-elementor-widget.php:93
+#: widgets/related-product-manager-wpbakery-widget.php:401
+msgid "Price"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:129
+msgid "Related Products Manager Options"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:133
+#, php-format
+msgid ""
+"You may need to <a href=\"%s\" style=\"font-weight:bold;\">clear all "
+"products transients</a> to immediately see results on frontend after "
+"changing plugin's settings. Alternatively you can just update each product "
+"individually to clear its transients."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:139
+#: includes/settings/class-prowc-settings-related-products-manager.php:24
+#: widgets/related-product-manager-elementor-widget.php:22
+#: widgets/related-product-manager-elementor-widget.php:41
+msgid "Related Products Manager"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:140
+msgid "Enable plugin"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:142
+msgid "Documentation"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:157
+msgid "Related products number"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:163
+msgid "Related products columns"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:173
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:199
+#: widgets/related-product-manager-elementor-widget.php:102
+msgid "Order"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:178
+msgid "Order by"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:189
+msgid "Meta Key"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:190
+msgid ""
+"Used only if order by \"Meta Value\" or \"Meta Value (Numeric)\" is "
+"selected in \"Order by\"."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:200
+msgid "Ignored if order by \"Random\" is selected in \"Order by\"."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:205
+msgid "Ascending"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:206
+msgid "Descending"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:215
+msgid "Relate"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:220
+msgid "Relate by category"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:221
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:228
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:235
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:274
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:324
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:83
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:227
+msgid "Relate by tag"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:234
+msgid "Relate by product attribute"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:241
+msgid "Attribute type"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:242
+msgid ""
+"If using \"Global attribute\" enter attribute's <em>slug</em> in "
+"\"Attribute name\""
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:247
+msgid "Global attribute"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:248
+msgid "Local attribute"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:255
+#, php-format
+msgid "Attribute name, e.g.: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:256
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:265
+msgid "Required."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:264
+#, php-format
+msgid "Attribute value, e.g.: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:266
+msgid ""
+"Attribute value is required in free version of the plugin. If you want to "
+"omit setting the attribute value and instead use automatically extracted "
+"attribute value of the current product - you will need Related Products "
+"Manager for WooCommerce Pro plugin."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:273
+msgid "Relate manually"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:277
+msgid ""
+"This will add a metabox to each product's edit page. You will be able to "
+"select related products, product categories, and/or tags manually for each "
+"product individually. There is also an option to remove related products on "
+"a per-product basis."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:280
+#, php-format
+msgid "You will need %s plugin to relate products on a per-product basis."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:289
+msgid "Select box type"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:290
+msgid ""
+"Sets type of select box when relating products manually on product's admin "
+"edit page."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:295
+msgid "Chosen select"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:296
+msgid "Standard"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:301
+msgid "Extra products limit"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:302
+msgid ""
+"To display different related products on each page reload, WooCommerce "
+"takes extra products before shuffling the results. You can set this number "
+"for extra products here."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:309
+msgid "Categories and tags"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:310
+msgid ""
+"If enabled will override relation by categories and tags when relating "
+"manually or by product attribute."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:316
+msgid "Override"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:317
+msgid "Do not override (AND)"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:318
+msgid "Do not override (OR)"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:322
+msgid "WPML: Use default product ID"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:323
+msgid "If enabled will use default WPML product ID when relating manually."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:334
+msgid "Exclude"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:339
+msgid "Exclude from related"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:340
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:388
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:451
+msgid "Enable section"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:346
+msgid "Categories"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:354
+msgid "Tags"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:366
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:372
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:81
+msgid "Hide"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:371
+msgid "Hide related products"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:382
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:399
+msgid "Position"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:387
+msgid "Change related products position"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:391
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:454
+#, php-format
+msgid ""
+"You will need <a target=\"_blank\" href=\"%s\">Related Products Manager for "
+"WooCommerce Pro</a> plugin to enable this section."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:405
+msgid "Before single product"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:406
+msgid "Before single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:407
+msgid "Inside single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:408
+msgid "After single product summary"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:409
+msgid "After single product"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:413
+msgid "Position priority"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:417
+msgid "Default priorities"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:420
+#, php-format
+msgid "Before single product: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:425
+#, php-format
+msgid "Before single product summary: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:430
+#, php-format
+msgid "Inside single product summary: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:435
+#, php-format
+msgid "After single product summary: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:450
+msgid "Change related products title"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:465
+#, php-format
+msgid "You can use shortcodes here, for example: %s"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:468
+#, php-format
+msgid "For category / tag / taxonomy titles, e.g.: %s."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:472
+#, php-format
+msgid "For translations, e.g.: %s."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:485
+msgid "Advanced"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:490
+msgid "Clear all products transients"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:491
+msgid "Block size"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:498
+msgid "Time limit (seconds)"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-general.php:499
+msgid "Set to -1 for the default server time limit."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:79
+msgid "No"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:80
+#: widgets/related-product-manager-elementor-widget.php:194
+msgid "Yes"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:90
+msgid "Related products"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:92
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:103
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:114
+msgid ""
+"Hold \"Control\" (Ctrl) key to select multiple values. \"Control\" and "
+"\"A\" to select all values."
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:101
+msgid "Related categories"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:112
+msgid "Related tags"
+msgstr ""
+
+#: includes/settings/class-prowc-related-products-manager-settings-per-product.php:161
+msgid "Related Products"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-related-products-manager.php:38
+msgid "Reset Settings"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-related-products-manager.php:43
+msgid "Reset section settings"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-related-products-manager.php:44
+msgid "Reset"
+msgstr ""
+
+#: includes/settings/class-prowc-settings-related-products-manager.php:83
+msgid "Your settings have been reset."
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:197
+msgid "Settings"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:199
+msgid "Unlock All"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:309
+#: related-products-manager-for-woocommerce.php:318
+msgid "Related Products Manager for WooCommerce"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:309
+msgid ""
+" plugin is not working because you need to activate the Woocommerce plugin."
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:310
+msgid "Activate Woocommerce Now"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:318
+msgid ""
+" plugin is not working because you need to install the WooCoomerce plugin"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:319
+msgid "Install WooCoomerce Now"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:344
+msgid "Upgrade Related Products Manager For Woocommerce"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:344
+msgid "to get additional features, security, and support. "
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:344
+msgid "Get 20% OFF"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:344
+msgid " your upgrade, use coupon code"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:344
+msgid "WP20"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:349
+msgid "Buy Now"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:350
+#: related-products-manager-for-woocommerce.php:417
+msgid "Remind me later"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:351
+#: related-products-manager-for-woocommerce.php:418
+msgid "Dismiss Notice"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:401
+#, php-format
+msgid "How are you liking the %s?"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:435
+msgid "Are you enjoying Related Products Manager Woocommerce?"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:439
+msgid "Yes!"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:440
+msgid "Not Really!"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:451
+msgid ""
+"That's awesome! Could you please do me a BIG favor and give it 5-star "
+"rating on WordPress to help us spread the word and boost our motivation?"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:456
+msgid "Okay You Deserve It"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:457
+msgid "Nope Maybe later"
+msgstr ""
+
+#: related-products-manager-for-woocommerce.php:458
+msgid "I Already Did"
+msgstr ""
+
+#: widgets/elementor-helper.php:8
+msgid "ProWcPlugins"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:47
+#: widgets/related-product-manager-elementor-widget.php:216
+#: widgets/related-product-manager-wpbakery-widget.php:429
+msgid "Heading"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:49
+msgid "Related Product"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:50
+msgid "Enter Heading"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:55
+#: widgets/related-product-manager-wpbakery-widget.php:468
+msgid "Display Number of Product"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:68
+#: widgets/related-product-manager-wpbakery-widget.php:476
+msgid "Columns"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:74
+#: widgets/related-product-manager-wpbakery-widget.php:372
+msgid "1"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:75
+#: widgets/related-product-manager-wpbakery-widget.php:373
+msgid "2"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:76
+#: widgets/related-product-manager-wpbakery-widget.php:374
+msgid "3"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:77
+#: widgets/related-product-manager-wpbakery-widget.php:375
+msgid "4"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:78
+msgid "5"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:79
+#: widgets/related-product-manager-wpbakery-widget.php:376
+#: widgets/related-product-manager-wpbakery-widget.php:470
+msgid "6"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:86
+#: widgets/related-product-manager-wpbakery-widget.php:485
+msgid "Order By"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:94
+#: widgets/related-product-manager-wpbakery-widget.php:402
+msgid "Rating"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:106
+#: widgets/related-product-manager-wpbakery-widget.php:410
+msgid "ASC"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:107
+#: widgets/related-product-manager-wpbakery-widget.php:411
+msgid "DESC"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:113
+#: widgets/related-product-manager-wpbakery-widget.php:420
+msgid "Show Heading"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:116
+#: widgets/related-product-manager-elementor-widget.php:147
+#: widgets/related-product-manager-elementor-widget.php:156
+#: widgets/related-product-manager-elementor-widget.php:165
+msgid "Off"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:117
+#: widgets/related-product-manager-elementor-widget.php:148
+#: widgets/related-product-manager-elementor-widget.php:157
+#: widgets/related-product-manager-elementor-widget.php:166
+msgid "On"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:123
+msgid "Heading HTML Tag"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:126
+#: widgets/related-product-manager-wpbakery-widget.php:383
+msgid "H1"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:127
+#: widgets/related-product-manager-wpbakery-widget.php:384
+msgid "H2"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:128
+#: widgets/related-product-manager-wpbakery-widget.php:385
+msgid "H3"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:129
+#: widgets/related-product-manager-wpbakery-widget.php:386
+msgid "H4"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:130
+#: widgets/related-product-manager-wpbakery-widget.php:387
+msgid "H5"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:131
+#: widgets/related-product-manager-wpbakery-widget.php:388
+msgid "H6"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:132
+#: widgets/related-product-manager-wpbakery-widget.php:389
+msgid "div"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:133
+#: widgets/related-product-manager-wpbakery-widget.php:390
+msgid "span"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:134
+#: widgets/related-product-manager-wpbakery-widget.php:391
+msgid "p"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:144
+#: widgets/related-product-manager-wpbakery-widget.php:501
+msgid "Show Category"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:153
+#: widgets/related-product-manager-wpbakery-widget.php:510
+msgid "Show Tag"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:162
+#: widgets/related-product-manager-wpbakery-widget.php:519
+msgid "Show Sale Badge"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:173
+#: widgets/related-product-manager-wpbakery-widget.php:530
+msgid "Sale!"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:181
+msgid "Related By Categories"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:185
+msgid "Select the categories you want to show"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:192
+#: widgets/related-product-manager-wpbakery-widget.php:544
+msgid "Exclude Above Categories"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:195
+msgid "NO"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:201
+msgid "Button Text"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:203
+msgid "View Product"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:204
+msgid "Button text"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:225
+#: widgets/related-product-manager-elementor-widget.php:388
+#: widgets/related-product-manager-elementor-widget.php:465
+#: widgets/related-product-manager-elementor-widget.php:542
+#: widgets/related-product-manager-elementor-widget.php:598
+#: widgets/related-product-manager-elementor-widget.php:686
+#: widgets/related-product-manager-elementor-widget.php:748
+msgid "Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:247
+#: widgets/related-product-manager-elementor-widget.php:418
+#: widgets/related-product-manager-elementor-widget.php:495
+#: widgets/related-product-manager-elementor-widget.php:628
+#: widgets/related-product-manager-elementor-widget.php:707
+#: widgets/related-product-manager-elementor-widget.php:769
+msgid "Text Align"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:251
+#: widgets/related-product-manager-elementor-widget.php:422
+#: widgets/related-product-manager-elementor-widget.php:499
+#: widgets/related-product-manager-elementor-widget.php:632
+#: widgets/related-product-manager-elementor-widget.php:711
+#: widgets/related-product-manager-elementor-widget.php:773
+#: widgets/related-product-manager-elementor-widget.php:815
+#: widgets/related-product-manager-wpbakery-widget.php:450
+#: widgets/related-product-manager-wpbakery-widget.php:676
+#: widgets/related-product-manager-wpbakery-widget.php:734
+#: widgets/related-product-manager-wpbakery-widget.php:792
+#: widgets/related-product-manager-wpbakery-widget.php:850
+#: widgets/related-product-manager-wpbakery-widget.php:897
+#: widgets/related-product-manager-wpbakery-widget.php:966
+msgid "Left"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:255
+#: widgets/related-product-manager-elementor-widget.php:426
+#: widgets/related-product-manager-elementor-widget.php:503
+#: widgets/related-product-manager-elementor-widget.php:636
+#: widgets/related-product-manager-elementor-widget.php:715
+#: widgets/related-product-manager-elementor-widget.php:777
+#: widgets/related-product-manager-elementor-widget.php:819
+#: widgets/related-product-manager-wpbakery-widget.php:451
+#: widgets/related-product-manager-wpbakery-widget.php:677
+#: widgets/related-product-manager-wpbakery-widget.php:735
+#: widgets/related-product-manager-wpbakery-widget.php:793
+#: widgets/related-product-manager-wpbakery-widget.php:851
+#: widgets/related-product-manager-wpbakery-widget.php:898
+#: widgets/related-product-manager-wpbakery-widget.php:967
+msgid "Center"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:259
+#: widgets/related-product-manager-elementor-widget.php:430
+#: widgets/related-product-manager-elementor-widget.php:507
+#: widgets/related-product-manager-elementor-widget.php:640
+#: widgets/related-product-manager-elementor-widget.php:719
+#: widgets/related-product-manager-elementor-widget.php:781
+#: widgets/related-product-manager-elementor-widget.php:823
+#: widgets/related-product-manager-wpbakery-widget.php:452
+#: widgets/related-product-manager-wpbakery-widget.php:678
+#: widgets/related-product-manager-wpbakery-widget.php:736
+#: widgets/related-product-manager-wpbakery-widget.php:794
+#: widgets/related-product-manager-wpbakery-widget.php:852
+#: widgets/related-product-manager-wpbakery-widget.php:899
+#: widgets/related-product-manager-wpbakery-widget.php:968
+msgid "Right"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:272
+#: widgets/related-product-manager-elementor-widget.php:442
+#: widgets/related-product-manager-elementor-widget.php:519
+#: widgets/related-product-manager-elementor-widget.php:652
+#: widgets/related-product-manager-elementor-widget.php:793
+msgid "Spacing"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:285
+msgid "Layout"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:291
+#: widgets/related-product-manager-wpbakery-widget.php:557
+msgid "Grid Gap"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:310
+#: widgets/related-product-manager-wpbakery-widget.php:566
+msgid "Rows Gap"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:331
+msgid "Image"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:337
+#: widgets/related-product-manager-elementor-widget.php:563
+#: widgets/related-product-manager-elementor-widget.php:840
+#: widgets/related-product-manager-wpbakery-widget.php:583
+#: widgets/related-product-manager-wpbakery-widget.php:627
+#: widgets/related-product-manager-wpbakery-widget.php:955
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:348
+#: widgets/related-product-manager-elementor-widget.php:858
+msgid "Normal"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:360
+#: widgets/related-product-manager-elementor-widget.php:884
+msgid "Hover"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:378
+msgid "Category"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:397
+#: widgets/related-product-manager-elementor-widget.php:474
+#: widgets/related-product-manager-elementor-widget.php:607
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:456
+msgid "Tag"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:532
+msgid "Sale Badge"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:554
+#: widgets/related-product-manager-elementor-widget.php:873
+#: widgets/related-product-manager-elementor-widget.php:898
+#: widgets/related-product-manager-wpbakery-widget.php:926
+msgid "Background Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:586
+msgid "Content"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:592
+msgid "Product Title"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:663
+msgid "Rating Star"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:670
+msgid "Size"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:697
+msgid "Unmarked Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:731
+msgid "Spacing Bottom"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:742
+#: widgets/related-product-manager-wpbakery-widget.php:812
+msgid "Product Price"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:805
+msgid "Button"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:811
+#: widgets/related-product-manager-wpbakery-widget.php:447
+#: widgets/related-product-manager-wpbakery-widget.php:963
+msgid "Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:863
+#: widgets/related-product-manager-elementor-widget.php:889
+#: widgets/related-product-manager-wpbakery-widget.php:916
+msgid "Text Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:907
+msgid "Border Color"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:925
+msgid "Padding"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:1071
+#: widgets/related-product-manager-wpbakery-widget.php:203
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: widgets/related-product-manager-elementor-widget.php:1072
+#: widgets/related-product-manager-wpbakery-widget.php:204
+msgid "out of 5"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:397
+msgid "Id"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:422
+#: widgets/related-product-manager-wpbakery-widget.php:503
+#: widgets/related-product-manager-wpbakery-widget.php:512
+#: widgets/related-product-manager-wpbakery-widget.php:521
+msgid "true"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:425
+#: widgets/related-product-manager-wpbakery-widget.php:506
+#: widgets/related-product-manager-wpbakery-widget.php:515
+#: widgets/related-product-manager-wpbakery-widget.php:524
+msgid "Check/Uncheck to show/hide the title."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:433
+msgid "Enter heading."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:437
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:443
+msgid "Select title HTML tag."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:456
+#: widgets/related-product-manager-wpbakery-widget.php:903
+msgid "Select Alignment."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:460
+msgid "Spacing For Heading "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:464
+msgid "Set the Heading bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:472
+msgid "Enter number of product. e.g. 6."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:481
+msgid "Select product columns."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:489
+msgid "Select order by."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:493
+msgid "Sort By"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:497
+msgid "Select sort by."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:528
+msgid "Sale Badge Title"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:532
+msgid "Enter Sale Badge Title."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:536
+msgid "Select Category"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:540
+msgid ""
+"Please select the categories you would like to display for your product. "
+"You can select multiple categories too (ctrl + click on PC and command + "
+"click on Mac)."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:546
+msgid "false"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:547
+msgid "Exclude Above Categories."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:551
+msgid "Button Text "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:559
+msgid "30"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:561
+msgid "Set layout grid gap e.g. 30"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:568
+msgid "35"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:570
+msgid "Set layout row gap e.g. 35"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:575
+msgid "Heading Text Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:587
+msgid "Set layout Image border radius"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:592
+msgid "Image Overlay"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:596
+msgid "Set overlay for layout Image"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:601
+msgid "Sale Badge Text Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:610
+msgid "Sale Badge Background Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:618
+msgid "Sale Badge Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:622
+msgid "Set the sale size eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:631
+msgid "Set Sale Badge border radius"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:637
+msgid "Product Category"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:646
+msgid "Category Text Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:656
+msgid "Category Text Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:665
+msgid "Category Font Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:669
+#: widgets/related-product-manager-wpbakery-widget.php:727
+#: widgets/related-product-manager-wpbakery-widget.php:785
+#: widgets/related-product-manager-wpbakery-widget.php:843
+msgid "Set the font size eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:673
+msgid "Select Category Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:682
+msgid "Select Alignment For Category."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:686
+msgid "Spacing For Category "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:690
+msgid "Set the category title bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:696
+msgid "Product Tag"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:704
+msgid "Tag Text Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:714
+msgid "Tag Text Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:723
+msgid "Tag Font Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:731
+msgid "Select Tag Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:740
+#: widgets/related-product-manager-wpbakery-widget.php:798
+#: widgets/related-product-manager-wpbakery-widget.php:856
+msgid "Select Alignment For Tag."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:744
+msgid "Spacing For Tag "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:748
+msgid "Set the tag title bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:754
+msgid "Product Name"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:762
+msgid "Product Name Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:772
+msgid "Product Name Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:781
+msgid "Product Name Font Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:789
+msgid "Product Name Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:802
+msgid "Spacing For Product Name "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:806
+msgid "Set the Product Name bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:820
+msgid "Product Price Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:830
+msgid "Product Price Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:839
+msgid "Product Price Font Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:847
+msgid "Product Price Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:860
+msgid "Spacing For Product Price "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:864
+msgid "Set the Product Price bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:869
+msgid "Rating Star Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:878
+msgid "Rating Star Unmarked Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:886
+msgid "Rating Star Size "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:890
+msgid "Set the size eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:894
+msgid "Select Alignment"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:907
+msgid "Spacing Bottom "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:911
+msgid "Set the Rating Star Bottom spacing eg. 25px or 1.5em "
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:936
+msgid "Text Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:946
+msgid "Background Hover Color"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:959
+msgid "Set border radius"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:976
+msgid "Field Label"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:980
+msgid "Enter description."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:989
+msgid "Related Product Manager Layout"
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:990
+msgid "Display Related Product Manager Layout."
+msgstr ""
+
+#: widgets/related-product-manager-wpbakery-widget.php:995
+msgid "Related Product Manager"
+msgstr ""
